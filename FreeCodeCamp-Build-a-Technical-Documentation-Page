@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Documentation Page</title>
+    <link rel="stylesheet" href="FreeCodeCamp-Build-a-Technical-Documentation-Page.css">
+    </head>
+    <body>
+      <main id="main-doc" href="#prem" class="#prem">
+        <section class="main-section" id="prem_kumar">
+          <header>prem_kumar</header>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          </section>
+          <section class="main-section" id="prem_kumar">
+            <header>prem_kumar</header>
+            <code></code>
+            <code></code>
+            <code></code>
+            <code></code>
+            <code></code>
+          </section>
+          <section class="main-section"
+id="prem_kumar">
+            <header>prem_kumar</header>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </section>
+          <section class="main-section" id="prem_kumar">
+            <header>prem_kumar</header>
+          </section>
+          <section class="main-section" id="prem_kumar">
+            <header>prem_kumar</header>
+          </section>
+        </main>
+        <nav id="navbar">
+          <header>prem_kumar</header>
+          <a href="#prem_kumar" class="nav-link">prem_kumar</a>
+          <a href="#prem_kumar" class="nav-link">prem_kumar</a>
+          <a href="#prem_kumar" class="nav-link">prem_kumar</a>
+          <a href="#prem_kumar" class="nav-link">prem_kumar</a>
+          <a href="#prem_kumar" class="nav-link">prem_kumar</a>
+        </nav>
+       
+      </body>
+</html>
